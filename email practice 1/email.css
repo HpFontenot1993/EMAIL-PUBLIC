@@ -1,0 +1,55 @@
+body{
+   background-color: rgb(104, 43, 73);
+   color:black;
+   max-width:100%;
+   min-width:0;
+   padding: 3.5rem;
+  margin-block: 2.5rem;
+
+}
+
+img{
+  border-style: solid;
+  border-color: black;
+  display:inline-flexbox;
+  max-width: 350px;
+  min-width: 0px;
+
+}
+
+h1,h2{
+  background-color: white;
+}
+
+header{
+  font-weight: bolder;
+  font-size: x-large;
+}
+
+
+
+
+
+.Bio{
+background-color: plum;
+width: 100%;
+text-align:center;
+overflow-wrap: break-word;
+}
+
+.info{
+    background-color: plum;
+    width: 100%;
+    text-align: center;
+    overflow-wrap: break-word;
+    }
+
+    .con{
+        background-color: plum;
+        width: 100%;
+        text-align: center;
+        overflow-wrap: break-word;
+
+    
+         }
+
